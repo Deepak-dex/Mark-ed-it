@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Markdown-Live-Preview/static/css/main.568912bd.chunk.css",
-    "main.js": "/Markdown-Live-Preview/static/js/main.41e7850e.chunk.js",
-    "main.js.map": "/Markdown-Live-Preview/static/js/main.41e7850e.chunk.js.map",
-    "runtime-main.js": "/Markdown-Live-Preview/static/js/runtime-main.5615ecc1.js",
-    "runtime-main.js.map": "/Markdown-Live-Preview/static/js/runtime-main.5615ecc1.js.map",
-    "static/js/2.12a3bd59.chunk.js": "/Markdown-Live-Preview/static/js/2.12a3bd59.chunk.js",
-    "static/js/2.12a3bd59.chunk.js.map": "/Markdown-Live-Preview/static/js/2.12a3bd59.chunk.js.map",
-    "index.html": "/Markdown-Live-Preview/index.html",
-    "precache-manifest.357614e94555dfbecea0b6ae5af067a2.js": "/Markdown-Live-Preview/precache-manifest.357614e94555dfbecea0b6ae5af067a2.js",
-    "service-worker.js": "/Markdown-Live-Preview/service-worker.js",
-    "static/css/main.568912bd.chunk.css.map": "/Markdown-Live-Preview/static/css/main.568912bd.chunk.css.map",
-    "static/js/2.12a3bd59.chunk.js.LICENSE.txt": "/Markdown-Live-Preview/static/js/2.12a3bd59.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Markdown-Live-Preview/static/media/logo.02102797.svg"
+    "main.css": "/Mark-ed-it/static/css/main.43c9936e.chunk.css",
+    "main.js": "/Mark-ed-it/static/js/main.3fef32d5.chunk.js",
+    "main.js.map": "/Mark-ed-it/static/js/main.3fef32d5.chunk.js.map",
+    "runtime-main.js": "/Mark-ed-it/static/js/runtime-main.35690a4a.js",
+    "runtime-main.js.map": "/Mark-ed-it/static/js/runtime-main.35690a4a.js.map",
+    "static/js/2.56d29133.chunk.js": "/Mark-ed-it/static/js/2.56d29133.chunk.js",
+    "static/js/2.56d29133.chunk.js.map": "/Mark-ed-it/static/js/2.56d29133.chunk.js.map",
+    "index.html": "/Mark-ed-it/index.html",
+    "precache-manifest.21f18b68454d75dc1ee28fdfc99c3c78.js": "/Mark-ed-it/precache-manifest.21f18b68454d75dc1ee28fdfc99c3c78.js",
+    "service-worker.js": "/Mark-ed-it/service-worker.js",
+    "static/css/main.43c9936e.chunk.css.map": "/Mark-ed-it/static/css/main.43c9936e.chunk.css.map",
+    "static/js/2.56d29133.chunk.js.LICENSE.txt": "/Mark-ed-it/static/js/2.56d29133.chunk.js.LICENSE.txt",
+    "static/media/Mark-ed-it..svg": "/Mark-ed-it/static/media/Mark-ed-it..e9a244a9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5615ecc1.js",
-    "static/js/2.12a3bd59.chunk.js",
-    "static/css/main.568912bd.chunk.css",
-    "static/js/main.41e7850e.chunk.js"
+    "static/js/runtime-main.35690a4a.js",
+    "static/js/2.56d29133.chunk.js",
+    "static/css/main.43c9936e.chunk.css",
+    "static/js/main.3fef32d5.chunk.js"
   ]
 }
